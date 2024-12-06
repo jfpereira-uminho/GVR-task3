@@ -21,7 +21,8 @@ Define the Controler Rules for the following topology `flows/`
 
 
 ### Network Configuration
-##### just a sugestion you can do your own mapping
+<span style="color: red;">just a suggestion you can do your own mapping</span>
+
 
 | Device   | Interface/Port        | MAC Address          | IP Address       |
 |----------|-----------------------|----------------------|------------------|
